@@ -1,0 +1,10 @@
+	6.	KCSSN - Kernel Code Stack Smash Sanitizer
+	7.	KCSN - Kernel Control Stack Sanitizer
+	8.	KPSAN - Kernel Pointer Sanitizer
+	9.	KRSAN - Kernel Race Condition Sanitizer
+	10.	KHSAN - Kernel Heap Sanitizer
+	11.	KTSAN - Kernel Thread Sanitizer
+	12.	KFSAN - Kernel File System Sanitizer
+	13.	KNSAN - Kernel Null Pointer Sanitizer
+	14.	KIOSAN - Kernel I/O Sanitizer
+	15.	KDSAN - Kernel Double Free Sanitize
